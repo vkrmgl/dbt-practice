@@ -24,5 +24,3 @@ sources:
         config:
           freshness: null
       - name: orders
-        
-            
