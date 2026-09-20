@@ -21,7 +21,8 @@ sources:
             
     tables:
       - name: customers
-        freshness: null
+        config:
+          freshness: null
       - name: orders
         
             
